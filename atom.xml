@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://toolchainx.github.com/atom.xml" rel="self"/>
   <link href="http://toolchainx.github.com/"/>
-  <updated>2013-02-02T03:16:32+08:00</updated>
+  <updated>2013-02-02T03:29:08+08:00</updated>
   <id>http://toolchainx.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello world!]]></title>
+    <title type="html"><![CDATA[你好，世界!]]></title>
     <link href="http://toolchainx.github.com/blog/2013/02/02/title/"/>
     <updated>2013-02-02T03:08:00+08:00</updated>
     <id>http://toolchainx.github.com/blog/2013/02/02/title</id>
